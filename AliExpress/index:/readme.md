@@ -1,4 +1,5 @@
 # feature: Manual Winch
+$209.76
 - [SucceBuy Folding Pickup Truck Crane 360° Swivel with 1100 lbs Manual Winch Mounted Bed Jib Crane Hoist for Factory Lifting Goods](https://www.aliexpress.us/item/3256808034548842.html)
 
 # feature: Electric Winch
